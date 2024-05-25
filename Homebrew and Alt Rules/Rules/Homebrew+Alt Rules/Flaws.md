@@ -26,3 +26,7 @@ If you spend at least an hour in direct sunlight, you gain the fatigue condition
 #### Marked by Fey
 _Either taken as a child or whisked away after a night of revelry in the forest, you've been marked by the creatures of the Feywild and now find yourself unable to be comfortable while in contact with metal for too long._  
 You have the same armor restriction as the Druid class, being unable to wear any metal armor.
+<br>
+#### Broken Common
+_Learning new languages can be difficult for anyone but for whatever reason you could never truly grasp the complexities of the Common tongue._
+You suffer -2 on Bluff checks when speaking Common, and any verbal skill skill (bluff, diplomacy, etc) counts as an automatic failure when a 1 is rolled on the d20 if speaking in Common.

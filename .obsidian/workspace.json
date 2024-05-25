@@ -20,8 +20,23 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "6a8fac34ee50f6c7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mistveil.md",
+                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mistveil.md",
+                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mistveil.md"
+                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md"
               }
             }
           }
@@ -158,8 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e8278613994c4a5",
+  "active": "6a8fac34ee50f6c7",
   "lastOpenFiles": [
+    "Homebrew and Alt Rules/Feats/General Feats/Evolved Companion.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
+    "Homebrew and Alt Rules/Feats/Feats.md",
+    "Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Flaws.md",
+    "Homebrew and Alt Rules/Classes/Classes.md",
     "Mistveil.md",
     "Known Continents/Mortend/Mortend.md",
     "Known Continents/Mortend/Countries/Parcel/Parcël.md",
@@ -182,11 +202,6 @@
     "Known Continents/Mortend/Countries/Deadlands/people/Elder Thualtakilleac.md",
     "Known Continents/Mortend/Countries/Deadlands/locations/Zoseer.md",
     "Known Continents/Mortend/Countries/Deadlands/factions/Nayax Clan.md",
-    "Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore.md",
-    "Known Continents/Mortend/Countries/Baylore/Baylore's Calendar.md",
-    "Known Continents/Mortend/Countries/Baylore/people/Viola Raymon.md",
-    "Known Continents/Mortend/Countries/Baylore/people/Selene Glorysun.md",
-    "Known Continents/Mortend/Countries/Baylore/people/Ratosh Yan.md",
     "Homebrew and Alt Rules/Rules/Not in Use",
     "Homebrew and Alt Rules/Rules/In-Person Games",
     "Homebrew and Alt Rules/Rules/Homebrew+Alt Rules",
