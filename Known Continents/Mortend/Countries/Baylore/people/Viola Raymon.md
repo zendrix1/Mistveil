@@ -1,0 +1,4 @@
+<sup><sup>[[Mistveil]] → [[Mortend]] → [[Divine Kingdom of Baylore|Baylore]] → [[Cliffside]] → Viola Raymon</sup></sup>
+A [[High Elves|High Elf]] living in [[Cliffside]], Viola moved to the small town from the city of [[Malfield]] years ago to apprentice under [[Ratosh Yan]] to become a magical craftsman. When she arrived in [[Cliffside]] she found that she couldn't stand working under the "crazed fiend" (as Viola called her) and instead became mostly-self taught while getting whatever lessons she could get out of the other Forgemasters who worked here. She eventually managed to become a Forgemaster herself only a few years ago. She was one of the surviving citizens of the [[Formian]] raid that destroyed most of the town.
+
+![[Viola_Raymon.webp]]

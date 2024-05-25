@@ -1,0 +1,2 @@
+<sup><sup>[[Mistveil]] → [[Rules]] → Forgiving Hit Dice</sup></sup>
+When rolling your hit dice while leveling up, reroll any result of 1. In the case of continual 1’s, you continue to reroll until your result is anything other than a 1.

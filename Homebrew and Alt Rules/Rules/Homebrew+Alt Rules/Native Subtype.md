@@ -1,0 +1,2 @@
+<sup><sup>[[Mistveil]] → [[Rules]] → Native Subtype</sup></sup>
+Outsiders with the [native](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#Native_Subtype) subtype such as [[Tieflings]] and [[Aasimar]] count as [Humanoids](https://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types#TOC-Humanoid) _and_ [Outsiders](https://www.d20pfsrd.com/bestiary/rules-for-monsters/Creature-types/#TOC-Outsider) for the purpose of all abilities and effects.

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "23253dd41e2250fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "058475c39286d9d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8278613994c4a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mistveil.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0b2eebdc1f7e18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f1d0c5f94de2cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce570810b76ffdc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62a675b3d20751c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "->",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7f29c567e5b9082",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff7d046f07ba7164",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d12bd4d3c4d6961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e3443f4aecd8dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d6a15738ce1dab7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a50b5d4202760d2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mistveil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce8133229d0b9b7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mistveil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea7b83f04a984215",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mistveil.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "3e8278613994c4a5",
+  "lastOpenFiles": [
+    "Mistveil.md",
+    "Known Continents/Mortend/Mortend.md",
+    "Known Continents/Mortend/Countries/Parcel/Parcël.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Tepid Bog.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/goblin weald",
+    "Known Continents/Mortend/Countries/Parcel/locations/Sulfur Fields.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Salesport Mines.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Ruined Desert.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/goblin weald/New Voadlan.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Ice Sheets.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/goblin weald/Goblin Weald.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Frozen Atoll.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Feral Gardens.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Eversnow Forest.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Double Plains.md",
+    "Known Continents/Mortend/Countries/Parcel/locations/Bloodvine Jungle.md",
+    "Known Continents/Mortend/Countries/Deadlands/Deadlands.md",
+    "Known Continents/Mortend/Countries/Deadlands/religion/Sleeping Gods.md",
+    "Known Continents/Mortend/Countries/Deadlands/people/Kemmeth.md",
+    "Known Continents/Mortend/Countries/Deadlands/people/Elder Thualtakilleac.md",
+    "Known Continents/Mortend/Countries/Deadlands/locations/Zoseer.md",
+    "Known Continents/Mortend/Countries/Deadlands/factions/Nayax Clan.md",
+    "Known Continents/Mortend/Countries/Baylore/Divine Kingdom of Baylore.md",
+    "Known Continents/Mortend/Countries/Baylore/Baylore's Calendar.md",
+    "Known Continents/Mortend/Countries/Baylore/people/Viola Raymon.md",
+    "Known Continents/Mortend/Countries/Baylore/people/Selene Glorysun.md",
+    "Known Continents/Mortend/Countries/Baylore/people/Ratosh Yan.md",
+    "Homebrew and Alt Rules/Rules/Not in Use",
+    "Homebrew and Alt Rules/Rules/In-Person Games",
+    "Homebrew and Alt Rules/Rules/Homebrew+Alt Rules",
+    "Attachments/Detect_magic2.webp",
+    "Attachments/Detect_magic1.webp",
+    "Homebrew and Alt Rules/Spells/Identifying Magic Items Spells",
+    "Homebrew and Alt Rules/Spells/Language Percentage Spells",
+    "Homebrew and Alt Rules/Spells/Modified Spells",
+    "Homebrew and Alt Rules/Spells/New Spells",
+    "Homebrew and Alt Rules/Spells",
+    "Attachments/wood elf_female.jpg",
+    "Attachments/wood elf_male.webp",
+    "Attachments/Femine_Volc-Nah.webp",
+    "Attachments/Masculine_Volc-Nah.webp",
+    "Attachments/Vermane_female.png",
+    "Attachments/Vermane_male.png",
+    "Attachments/Vanara.webp",
+    "Attachments/Vafer_male.jpg",
+    "Homebrew and Alt Rules/Races/Core Races/Sylphs"
+  ]
+}

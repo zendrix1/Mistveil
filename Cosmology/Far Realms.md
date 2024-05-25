@@ -1,0 +1,2 @@
+<sup><sup>[[Mistveil]] → Far Realms</sup></sup>
+Allegedly the cosmic area outside of the [[Sea of Dreams]], practically nothing is known about the Far Realms and some debate it even exists. The only recorded accounts of its existence come from reports and rumors of dark tomes, forbidden magicks, and gruesome creatures.

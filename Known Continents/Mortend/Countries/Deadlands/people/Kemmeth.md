@@ -1,0 +1,4 @@
+<sup><sup>[[Mistveil]] → [[Mortend]] → [[Deadlands]] → [[Zoseer]] → Kemmeth</sup></sup>
+Kemmeth is a young [[White Dragonborn]] who is part of the [[Nayax Clan]] of [[Dragonborn]] who live in the small town of [[Zoseer]]. Kemmeth is untested due to his age and spends his time exploring the area around [[Zoseer]], looking for adventure or anything of use to his clan. He lives with his grandmother whom he takes care of (when she isn't taking care of him). Kemmeth has something of a reputation among the [[Nayax Clan|Nayax]] of getting into trouble or danger and he has the scars to prove those rumors true. 
+
+![[Kemmeth.webp]]

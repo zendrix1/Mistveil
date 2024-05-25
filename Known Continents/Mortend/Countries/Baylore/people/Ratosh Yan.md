@@ -1,0 +1,4 @@
+<sup><sup>[[Mistveil]] → [[Mortend]] → [[Divine Kingdom of Baylore|Baylore]] → [[Cliffside]] → Ratosh Yan</sup></sup>
+One of the Forgemasters of [[Cliffside]], a survivor of the [[Formian]] raiding party, and one of the two [[Tieflings]] in the small town, Ratosh Yan is an [[Artificer]] who specializes in magical firearms. Her powerful weapons were instrumental in the defense of the [[Great Forge]] during the raid. Ratosh is a lively, energetic woman who is deeply fascinated with scientific advancement but that fascination can sometimes come at the expense of safety measures...or the understanding of social cues.
+
+![[Ratosh_Yan.webp]]

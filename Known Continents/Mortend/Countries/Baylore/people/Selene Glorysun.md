@@ -1,0 +1,4 @@
+<sup><sup>[[Mistveil]] → [[Mortend]] → [[Divine Kingdom of Baylore|Baylore]] → [[Cliffside]] → Selene Glorysun</sup></sup>
+Commonly mistaken for a [[Dwarves|Dwarven]] women due to her short height and muscle definition, Selene Glorysun is actually a human who was born in [[Cliffside]]. She quickly took to the forge and apprenticed under [[Brem Glorysun|Brem Bristlehelm]] until she too became a Forgemaster. After working so closely for many years, she fell in love with her teacher and asked him to marry her. He accepted (abandoning his clan's name in the process) and they were married soon after. Selene has her own forge-room, but will still work with her husband on bigger projects whenever given the opportunity despite the fact that they bicker endlessly while working together. 
+
+![[Selene_Glorysun.webp]]

@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "Attachments",
+  "focusNewTab": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "livePreview": false,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
+}
