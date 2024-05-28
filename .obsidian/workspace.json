@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "800dd1d7a875863b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew and Alt Rules/Rules/Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "6a8fac34ee50f6c7",
             "type": "leaf",
             "pinned": true,
@@ -34,9 +48,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d18419a571cbc63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homebrew and Alt Rules/Rules/In-Person Games/Bulk.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -65,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "->",
+                "query": "ioun",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
+                "file": "Homebrew and Alt Rules/Rules/In-Person Games/Bulk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
+                "file": "Homebrew and Alt Rules/Rules/In-Person Games/Bulk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md"
+                "file": "Homebrew and Alt Rules/Rules/In-Person Games/Bulk.md"
               }
             }
           }
@@ -173,10 +200,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a8fac34ee50f6c7",
+  "active": "d18419a571cbc63a",
   "lastOpenFiles": [
-    "Homebrew and Alt Rules/Feats/General Feats/Evolved Companion.md",
+    "Homebrew and Alt Rules/Rules/Rules.md",
     "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Beast Dancer.md",
+    "Homebrew and Alt Rules/Rules/In-Person Games/Bulk.md",
+    "Homebrew and Alt Rules/Items/Ioun Torch.md",
+    "Homebrew and Alt Rules/Races/Core Races/Wood Elves.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Nature Forms/Nature Forms.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Nature Forms/Form of Wind.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Nature Forms/Form of the Rose.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Nature Forms/Form of the Bog.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Animal Aspects/Animal Aspects.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Animal Aspects/Aspect of the Spider.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Animal Aspects/Aspect of the Hawk.md",
+    "Homebrew and Alt Rules/Classes/Base Classes/Beast Dancer/Animal Aspects/Aspect of the Badger.md",
+    "Homebrew and Alt Rules/Rules/Animal Companion Multiattack.md",
+    "Homebrew and Alt Rules/Feats/General Feats/Extra Beast Dance.md",
+    "Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Athletics.md",
+    "Homebrew and Alt Rules/Feats/General Feats/Evolved Companion.md",
     "Homebrew and Alt Rules/Feats/Feats.md",
     "Homebrew and Alt Rules/Rules/Homebrew+Alt Rules/Flaws.md",
     "Homebrew and Alt Rules/Classes/Classes.md",
@@ -187,21 +229,6 @@
     "Known Continents/Mortend/Countries/Parcel/locations/goblin weald",
     "Known Continents/Mortend/Countries/Parcel/locations/Sulfur Fields.md",
     "Known Continents/Mortend/Countries/Parcel/locations/Salesport Mines.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Ruined Desert.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/goblin weald/New Voadlan.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Ice Sheets.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/goblin weald/Goblin Weald.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Frozen Atoll.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Feral Gardens.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Eversnow Forest.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Double Plains.md",
-    "Known Continents/Mortend/Countries/Parcel/locations/Bloodvine Jungle.md",
-    "Known Continents/Mortend/Countries/Deadlands/Deadlands.md",
-    "Known Continents/Mortend/Countries/Deadlands/religion/Sleeping Gods.md",
-    "Known Continents/Mortend/Countries/Deadlands/people/Kemmeth.md",
-    "Known Continents/Mortend/Countries/Deadlands/people/Elder Thualtakilleac.md",
-    "Known Continents/Mortend/Countries/Deadlands/locations/Zoseer.md",
-    "Known Continents/Mortend/Countries/Deadlands/factions/Nayax Clan.md",
     "Homebrew and Alt Rules/Rules/Not in Use",
     "Homebrew and Alt Rules/Rules/In-Person Games",
     "Homebrew and Alt Rules/Rules/Homebrew+Alt Rules",

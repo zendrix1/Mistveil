@@ -57,8 +57,6 @@ The Beast Dancer also gains the animal companion talent of the Beastmastery sphe
 
 The Beast Dancer may teach her companion [hunter’s tricks](https://www.d20pfsrd.com/classes/core-classes/ranger/archetypes/paizo-ranger-archetypes/skirmisher) from the skirmisher ranger archetype instead of standard tricks. The animal companion can use skirmisher tricks when commanded, a number of times per day equal to half its Hit Dice plus its Wisdom modifier.
 
-Most animal companions would normally increase in size as the druid gains levels but Bonded Companions do not, instead they gain the ability to change size at-will (see below).
-
 If the Beast Dancer releases her companion from service, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer in the environment where the new companion typically lives. This ceremony can also replace an animal companion that has perished. 
 <br>
 ##### Casting
@@ -105,26 +103,16 @@ Starting at 4th level and every 4 levels thereafter, the Beast Dancer may choose
 [[Nature Forms|List of Nature Forms]] 
 <br>
 ##### Alter Companion Size (Su)
-At 6th level, the Beast Dancer gains the ability to focus the magic of the Leylines that flow through their Bonded Companion to change its size. By spending a full-round action while touching their companion, the Beast Dancer can change their size up to one category larger or smaller than their starting size. Any barding or other gear worn by their companion changes size with them.
+At 6th level, the Beast Dancer gains the ability to focus the magic of the Leylines that flow through their Bonded Companion to change its size. By spending a full-round action while touching their companion, the Beast Dancer can change their size up to one category larger or smaller than their base size (many 4th or 7th level advancements will change the base size). Any barding or other gear worn by their companion changes size with them. The Bonded Companion cannot become larger than Huge or smaller than Tiny with this ability.
 
-At 13th level, the Bonded Companion can change up to two size categories from their starting size.
+At 13th level, the Bonded Companion can change up to two size categories from their base size, although the maximum and minimum size categories remain.
 
-Bonded Companions use [regular size modifiers](https://www.d20pfsrd.com/gamemastering/combat/space-reach-threatened-area-templates?/#Creature_Sizes) except with ability score modifiers, Bonded Companions use the below table to adjust their ability scores when changing size. [Carrying capacity](https://www.d20pfsrd.com/alignment-description/carrying-capacity/) for larger and smaller creatures do not change from their normal rules. The [damage dice based on size](https://www.d20pfsrd.com/gamemastering/combat/space-reach-threatened-area-templates?/#Creature_Sizes) remains the same as well. 
+This ability acts as the *[Enlarge Person](https://www.d20pfsrd.com/magic/all-spells/e/enlarge-person/)* and *[Reduce Person](https://www.d20pfsrd.com/magic/all-spells/r/reduce-person/)* spells except that it is not a magical effect and has no duration. When using this ability to change size categories by two stages, refer to the mythic versions of both spells.
 
-| Size       | Str | Dex | Con |
-| ---------- | --- | --- | --- |
-| Fine       | -6  | +8  | +0  |
-| Diminutive | -4  | +6  | +0  |
-| Tiny       | -2  | +4  | +0  |
-| Small      | +0  | +2  | +0  |
-| Medium     | +0  | +0  | +0  |
-| Large      | +2  | +0  | +2  |
-| Huge       | +4  | -2  | +2  |
-| Gargantuan | +6  | -4  | +2  |
-| Colossal   | +8  | -6  | +4  |
+Bonded Companions use regular [size modifiers](https://www.d20pfsrd.com/gamemastering/combat/space-reach-threatened-area-templates?/#Creature_Sizes) rules, [carrying capacity](https://www.d20pfsrd.com/alignment-description/carrying-capacity/) for larger and smaller creatures rules, and [damage dice based on size](https://www.d20pfsrd.com/gamemastering/combat/space-reach-threatened-area-templates?/#Creature_Sizes) rules when changing size. 
 
 ##### Draped in Hides (Ex)
-Although still prohibited from wearing metal armor, the Beast Dancer has spent most of their life using heavy animal hides and other natural materials such as wood and bark to both protect them from the elements as well as protect them in combat. Over time, training and living with these materials has allowed the Beast Dancer to move more freely within them, causing her to take no penalties to movement for wearing medium armor that is not made of metal.
+Although still prohibited from wearing metal armor, the Beast Dancer has spent most of their life using heavy animal hides and other natural materials such as wood and bark to both protect them from the elements as well as protect them in combat. Over time, training and living with these materials has allowed the Beast Dancer to move more freely within them, causing her to take no penalties to movement for wearing medium armor that is not made of metal starting at 6th level.
 
 At 8th level, the Beast Dancer's comfort in heavier armor has grown even further. Anytime she is wearing light or medium armor that is not made of metal, reduce the armor check penalty by 1 (minimum 0). 
 <br>

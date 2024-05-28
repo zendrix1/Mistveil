@@ -3,6 +3,7 @@
 
 |                                                                        **Rule**                                                                        |                                        **Description**                                         |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|                                                            [[Animal Companion Multiattack]]                                                            |        Animal Companions can choose Multiattack or an extra primary attack at level 9.         |
 |                                                             [[Athletics\|Athletics Skill]]                                                             |                          Climb and Swim are combined into Athletics.                           |
 |                                                                     [[Darkvision]]                                                                     |                 Regular darkvision only gives low-light in complete darkness.                  |
 |                                                           [[Critical Hits - Automatic Hit]]                                                            |                Critical attack rolls automatically hit, not just Natural 20's.                 |
@@ -13,7 +14,7 @@
 |                                                                       [[Flaws]]                                                                        |                 Take penalties during character creation to gain bonus feats.                  |
 |                                                                 [[Forgiving Hit Dice]]                                                                 |                                 Reroll 1's on Hit Dice rolls.                                  |
 |                                                                      [[Gambling]]                                                                      |                           Use skills to play a game of 1v1 gambling.                           |
-|                                                                   [[Glancing Blows]]                                                                    |                    Hitting the target's AC results in a less powerful blow.                    |
+|                                                                   [[Glancing Blows]]                                                                   |                    Hitting the target's AC results in a less powerful blow.                    |
 |                                     [Hero Points](https://www.d20pfsrd.com/gamemastering/other-rules/hero-points/)                                     |                 Gain a pool of points that can be spent to perform great acts.                 |
 |                                                              [[Identifying Magic Items]]                                                               |                   Change to how magic items are identified with Spellcraft.                    |
 |                                                         [[Improved Spontaneous Spellcasting]]                                                          |   Sorcerers, Psychics, and Oracles learn spell levels at the same rate as prepared casters.    |
@@ -21,7 +22,7 @@
 |                                 [Make Craft Work](https://www.d20pfsrd.com/skills/craft/alternative-craft-rules-3pp/)                                  | Rules for using the Craft skill that are easier to follow and allow for more adventuring time. |
 |                                                     [[Moving Through and Sharing an Ally's Space]]                                                     |              Movement requirements for moving through occupied spaces of allies.               |
 |                                                                   [[Native Subtype]]                                                                   |        Native outsiders count as Humanoids and Outsiders for all abilities and spells.         |
-|                                                           [[Skill Challenges]]                                                            |        Cinematic moments where party members overcome obstacles by making skill rolls.         |
+|                                                                  [[Skill Challenges]]                                                                  |        Cinematic moments where party members overcome obstacles by making skill rolls.         |
 |                                                            [[Spell Trigger Item Recharge]]                                                             |                    Use item creation rules to recharge spell trigger items.                    |
 |                                        [Unchained Classes](https://mistveil.fandom.com/wiki/Unchained_Classes)                                         |                 Unchained versions of classes are used over original classes.                  |
 
@@ -29,10 +30,11 @@
 
 ### Rules for In-Person Games only
 
-|     **Rule**    |                                  **Description**                                 |
-|:---------------:|:--------------------------------------------------------------------------------:|
-| [[Ammunition Dice]] | Use decreasing dice size to represent ammo rather than tracking each arrow/bolt. |
-|       [[Bulk]]      |           Pathfinder 2e Bulk system modified slightly for 1st edition.           |
+|                                                            **Rule**                                                            |                                                 **Description**                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|                                                      [[Ammunition Dice]]                                                       |                 Use decreasing dice size to represent ammo rather than tracking each arrow/bolt.                 |
+| [Automatic Bonus Progression](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/automatic-bonus-progression/) | Removal of the "Big Six" magic items, automatic bonuses to your stats as you level up, reduced character wealth. |
+|                                                            [[Bulk]]                                                            |                           Pathfinder 2e Bulk system modified slightly for 1st edition.                           |
 
 <br>
 
@@ -48,9 +50,8 @@
 
 ### Rules Not Currently Being Used
 
-|           **Rule**          |                                                  **Description**                                                 |
-|:---------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| [Automatic Bonus Progression](https://www.d20pfsrd.com/gamemastering/other-rules/unchained-rules/automatic-bonus-progression/) | Removal of the "Big Six" magic items, automatic bonuses to your stats as you level up, reduced character wealth. |
-|     [[Language Percentages]]    |                    Learn languages overtime and roll to see how well you understood something.                   |
-|         [[Luck Points]]         |                   A frequently filled pool of points used to increase the results of d20 rolls.                  |
-|  [Spell-Points Magic System](https://www.d20pfsrd.com/magic/variant-magic-rules/spell-points-magic-system)  |                        Replace spells per day with a pool of spell points to cast spells.                        |
+|                                                            **Rule**                                                            |                                                 **Description**                                                  |
+| :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|                                                    [[Language Percentages]]                                                    |                   Learn languages overtime and roll to see how well you understood something.                    |
+|                                                        [[Luck Points]]                                                         |                  A frequently filled pool of points used to increase the results of d20 rolls.                   |
+|           [Spell-Points Magic System](https://www.d20pfsrd.com/magic/variant-magic-rules/spell-points-magic-system)            |                        Replace spells per day with a pool of spell points to cast spells.                        |

@@ -35,7 +35,7 @@ The Wood Elves of the [[Eversnow Forest]] are not native to the land of [[Parcë
 #### Wood Elf Favored Class Bonuses
 - [Barbarian](http://www.d20pfsrd.com/classes/core-classes/barbarian/): Add +1 to the barbarian’s base speed. In combat this option has no effect unless the barbarian has selected it five times (or another increment of five). This bonus stacks with the barbarian’s fast movement feature and applies under the same conditions as that feature.
 - [Bard](https://www.d20pfsrd.com/classes/core-classes/bard/): Add +1 to the bard’s CMD when resisting a disarm or sunder attempt.
-- Beast Dancer: Increase the maximum rounds per day the Beast Dancers can spend in Beast Dance by 1/3.
+- [[Beast Dancer]]: Increase the maximum rounds per day the Beast Dancers can spend in Beast Dance by 1/3.
 - [Bloodrager](http://www.d20pfsrd.com/classes/hybrid-classes/bloodrager/): Add 1 foot to the bloodrager’s base speed. In combat, this only has an effect for every five increases in base speed. This bonus stacks with the bloodrager’s fast movement class feature, and applies under the same conditions and that feature.
 - [Brawler](https://www.d20pfsrd.com/classes/hybrid-classes/brawler/): Add 1 foot to the brawler’s base speed. In combat, this has an effect only for every five increases in the brawler’s base speed.
 - [Cavalier](http://www.d20pfsrd.com/classes/base-classes/cavalier/): Add +1 hit point to the cavalier’s mount. If the cavalier ever replaces his mount, the new mount gains these bonus hit points.
